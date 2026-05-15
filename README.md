@@ -2,9 +2,6 @@
 
 Welcome to my product management portfolio repository. Here you will find deep-dive analyses, teardowns, and product strategy breakdowns for top consumer tech startups.
 
-### ⚠️ Important Note for Recruiters
-Since GitHub natively displays HTML files as raw code, **please click the "View Live Presentation" links below** to view the actual rendered teardown decks in your browser.
-
 ---
 
 ## 📊 Featured Product Teardowns
@@ -22,5 +19,5 @@ Since GitHub natively displays HTML files as raw code, **please click the "View 
 ---
 
 ### 📩 Contact
-- **Email:** akshaydubey0605@gmail.com
-- **LinkedIn:** [Akshay Dubey](https://www.linkedin.com/in/akshay-dubey-0a9b89209/) *(Update with your actual link if needed)*
+- **Email:** akshay.dubey00@gmail.com
+- **LinkedIn:** [Akshay Dubey](https://www.linkedin.com/in/akshay-dubey-5168b3205)
